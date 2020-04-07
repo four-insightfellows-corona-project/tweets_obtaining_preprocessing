@@ -1,0 +1,1 @@
+This repository contains Jupyter notebooks that I use to extract and preprocess tweets using tweepy. These consist of all tweets since March 1, 2020, which were published within Prospect Park in Brooklyn, New York.
